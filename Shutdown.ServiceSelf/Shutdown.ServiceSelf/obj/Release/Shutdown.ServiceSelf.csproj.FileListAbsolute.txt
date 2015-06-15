@@ -1,0 +1,40 @@
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe.config
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.pdb
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.pdb
+C:\Users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.csprojResolveAssemblyReference.cache
+C:\Users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe.manifest
+C:\Users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.application
+C:\Users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.exe.manifest
+C:\Users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.application
+C:\Users\ismtxt\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe.config
+C:\Users\ismtxt\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.exe
+C:\Users\ismtxt\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.pdb
+C:\Users\ismtxt\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe.manifest
+C:\Users\ismtxt\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.application
+C:\Users\ismtxt\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe
+C:\Users\ismtxt\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.pdb
+C:\Users\ismtxt\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.csprojResolveAssemblyReference.cache
+C:\Users\ismtxt\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.exe.manifest
+C:\Users\ismtxt\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.application
+C:\Users\ismdeep\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe.config
+C:\Users\ismdeep\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.exe
+C:\Users\ismdeep\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.pdb
+C:\Users\ismdeep\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe.manifest
+C:\Users\ismdeep\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.application
+C:\Users\ismdeep\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe
+C:\Users\ismdeep\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.pdb
+C:\Users\ismdeep\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.csprojResolveAssemblyReference.cache
+C:\Users\ismdeep\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.exe.manifest
+C:\Users\ismdeep\Desktop\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.application
+C:\Users\ismdeep\Desktop\shutdown_pc_android\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe.config
+C:\Users\ismdeep\Desktop\shutdown_pc_android\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.exe
+C:\Users\ismdeep\Desktop\shutdown_pc_android\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.pdb
+C:\Users\ismdeep\Desktop\shutdown_pc_android\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe.manifest
+C:\Users\ismdeep\Desktop\shutdown_pc_android\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.application
+C:\Users\ismdeep\Desktop\shutdown_pc_android\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.exe
+C:\Users\ismdeep\Desktop\shutdown_pc_android\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Release\Shutdown.ServiceSelf.pdb
+C:\Users\ismdeep\Desktop\shutdown_pc_android\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.csprojResolveAssemblyReference.cache
+C:\Users\ismdeep\Desktop\shutdown_pc_android\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.exe.manifest
+C:\Users\ismdeep\Desktop\shutdown_pc_android\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Release\Shutdown.ServiceSelf.application

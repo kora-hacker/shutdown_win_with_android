@@ -1,0 +1,6 @@
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Debug\Shutdown.ServiceSelf.exe.config
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Debug\Shutdown.ServiceSelf.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\bin\Debug\Shutdown.ServiceSelf.pdb
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Debug\Shutdown.ServiceSelf.csprojResolveAssemblyReference.cache
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Debug\Shutdown.ServiceSelf.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\Shutdown.ServiceSelf\Shutdown.ServiceSelf\obj\Debug\Shutdown.ServiceSelf.pdb
